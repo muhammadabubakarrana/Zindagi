@@ -94,9 +94,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.rntemplate0716"
+    namespace "com.Zindagi.com"
     defaultConfig {
-        applicationId "com.rntemplate0716"
+        applicationId "com.Zindagi.com"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

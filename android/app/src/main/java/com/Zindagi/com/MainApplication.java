@@ -1,4 +1,4 @@
-package com.rntemplate0716;
+package com.Zindagi.com;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
