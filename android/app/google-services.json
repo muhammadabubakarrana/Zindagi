@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "753354290699",
+    "project_id": "zindagi-fbac2",
+    "storage_bucket": "zindagi-fbac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753354290699:android:52f768d6367924b00c390e",
+        "android_client_info": {
+          "package_name": "com.Zindagi.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753354290699-87kpqoh55obk12m6jn0fa0i0ib098nql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Zindagi.com",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "753354290699-1b5fdau8eur8ru57749bparekv8j1fjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEhvyBEifRKBYhvWQx66HRa-lEPDSrzdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753354290699-1b5fdau8eur8ru57749bparekv8j1fjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

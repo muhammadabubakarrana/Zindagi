@@ -14,6 +14,7 @@ const AuthNavigation = () => {
         >
             <AuthStack.Screen name={routes.signin} component={Auth.Signin}
                 options={{
+                        
                     //headerShown: false,
                     title: 'Sign In'
                 }}
